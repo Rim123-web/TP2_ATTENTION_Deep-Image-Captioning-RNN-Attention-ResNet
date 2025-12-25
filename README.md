@@ -64,6 +64,6 @@ The model is trained and evaluated on the **Flickr30k dataset**, containing over
 ## Author
 **Rim Gourram**  
 Master’s student in AI and Data Science  
-GitHub: [rimgourram](https://github.com/rimgourram)  
+
 
 
